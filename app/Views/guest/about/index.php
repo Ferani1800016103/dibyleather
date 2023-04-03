@@ -57,7 +57,7 @@
 
                         kami memakai bahan baku yang ramah lingkungan serta produk yang telah teruji secara Lab, untuk ketahanan terhadap asam,basa, kelunturan,gesekan dan juga panas. Diby Leather juga melakukan sebuah kepedulian terhadap para wanita,sehingga kami konsern pada pemberdayaan wanita lokal dan juga peduli terhadap remaja-remaja panti asuhan.
 
-                    Diby juga melakukan penjualan secara retail,wholesale dan made to order leather goods untuk produk yang terbuat dari bahan baku kulit asli baik untuk klien,toko fashion,souvenir,dan coorporate gift.</p>
+                        Diby juga melakukan penjualan secara retail,wholesale dan made to order leather goods untuk produk yang terbuat dari bahan baku kulit asli baik untuk klien,toko fashion,souvenir,dan coorporate gift.</p>
 
                 </div>
             </div>
@@ -67,15 +67,152 @@
 </section>
 <!-- about-area end  -->
 
-
-
 <!-- speciality area start  -->
 <div class="container">
     <div class="content-video">
         <!-- Tempatkan Video Youtube Disini -->
         <iframe width="100%" height="500" src="https://www.youtube.com/embed/V9XJMe3N9rQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
         <!-- speciality area end  -->
+
+        <!-- team area start  -->
+        <div class="testimonial-area pt-85 pb-120">
+            <h2>
+                Tim Pengembang
+            </h2>
+            <br>
+            <br>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="testimonial-wrapper">
+                            <div class="swiper-container testimonial-active">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-single">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-author">
+                                                    <h4 class="author-name">Muhammad Rizky Fadly</h4>
+                                                    <div class="author-desc">Tim Member, Panel Admin</div>
+                                                </div>
+                                                <!--  <div class="author-text">
+                                                    <p>Buying a package usually means you buy two or more services, with each service
+                                                        coming at a discounted price. For
+                                                        example, instead of buying a manicure for combo of the two carrot.</p>
+                                                </div> -->
+                                                <div class="author-thumb">
+                                                    <img src="assets/img/testimonial/8.png" alt="author img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-single">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-author">
+                                                    <h4 class="author-name">Ferani Gifta Salsabilla</h4>
+                                                    <div class="author-desc">Tim Member, Website Pemasaran</div>
+                                                </div>
+                                                <!-- <div class="author-text">
+                                                    <p>Buying a package usually means you buy two or more services, with each service
+                                                        coming at a discounted price. For
+                                                        example, instead of buying a manicure for combo of the two carrot.</p>
+                                                </div> -->
+                                                <div class="author-thumb">
+                                                    <img src="assets/img/testimonial/3.png" alt="author img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-single">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-author">
+                                                    <h4 class="author-name">Rahmi Maulidya</h4>
+                                                    <div class="author-desc">Tim Member, Basis Data</div>
+                                                </div>
+                                                <!-- <div class="author-text">
+                                                    <p>Buying a package usually means you buy two or more services, with each service
+                                                        coming at a discounted price. For
+                                                        example, instead of buying a manicure for combo of the two carrot.</p>
+                                                </div> -->
+                                                <div class="author-thumb">
+                                                    <img src="assets/img/testimonial/2.png" alt="author img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-single">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-author">
+                                                    <h4 class="author-name">Tia Agustina</h4>
+                                                    <div class="author-desc">Tim Member, 3D Semu</div>
+                                                </div>
+                                                <!-- <div class="author-text">
+                                                    <p>Buying a package usually means you buy two or more services, with each service
+                                                        coming at a discounted price. For
+                                                        example, instead of buying a manicure for combo of the two carrot.</p>
+                                                </div> -->
+                                                <div class="author-thumb">
+                                                    <img src="assets/img/testimonial/4.png" alt="author img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-single">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-author">
+                                                    <h4 class="author-name">Desi Agustina</h4>
+                                                    <div class="author-desc">Tim Member, Transaksi</div>
+                                                </div>
+                                                <!-- <div class="author-text">
+                                                    <p>Buying a package usually means you buy two or more services, with each service
+                                                        coming at a discounted price. For
+                                                        example, instead of buying a manicure for combo of the two carrot.</p>
+                                                </div> -->
+                                                <div class="author-thumb">
+                                                    <img src="assets/img/testimonial/5.png" alt="author img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testimonial-single">
+                                            <div class="testimonial-content">
+                                                <div class="testimonial-author">
+                                                    <h4 class="author-name">Syarafina Syarief</h4>
+                                                    <div class="author-desc">Tim Member, SEO</div>
+                                                </div>
+                                                <!-- <div class="author-text">
+                                                    <p>Buying a package usually means you buy two or more services, with each service
+                                                        coming at a discounted price. For
+                                                        example, instead of buying a manicure for combo of the two carrot.</p>
+                                                </div> -->
+                                                <div class="author-thumb">
+                                                    <img src="assets/img/testimonial/6.png" alt="author img">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="testimonial-pagination">
+                                    <!-- If we need pagination -->
+                                    <div class="testimonial-pagination"></div>
+                                </div>
+                            </div>
+                            <!-- If we need navigation buttons -->
+                            <div class="testimonial-nav">
+                                <div class="testimonial-button-prev"><i class="fal fa-long-arrow-left"></i></div>
+                                <div class="testimonial-button-next"><i class="fal fa-long-arrow-right"></i></div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- testimonial area end  -->
         <script src="<?= base_url(); ?>/assets/js/nice-select.min.js"></script>
